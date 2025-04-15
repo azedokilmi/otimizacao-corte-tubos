@@ -51,6 +51,10 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
    - Informe os comprimentos dos tubos disponíveis.
    - Adicione os cortes desejados e selecione a matéria-prima correspondente.
   
+5. 📋 **Organização dos Dados de Entrada**
+
+   Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa.
+  
 5. **🖱️ Executável OneFile (.exe)**
 
    Para facilitar o uso diário e tornar o processo mais prático, foi gerado um executável "onefile" (.exe) que pode ser rodado diretamente com dois cliques, sem a necessidade de abrir o prompt de comando ou programas de codagem como JupyterLab ou VS Code.
