@@ -40,7 +40,7 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
    pip install fpdf
    ```
 
-3. **Execute o programa**: no terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Corte%20de%20Tubos.py)) deve estar localizado e execute o comando abaixo:
+3. **Execute o programa**: no terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Corte-de-Tubos.py)) deve estar localizado e execute o comando abaixo:
    
    Após a execução do script, os arquivos de saída serão gerados na mesma pasta onde o programa foi executado.
    ```bash
@@ -53,7 +53,7 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
   
 5. 📋 **Organização dos Dados de Entrada**
 
-   Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos%20para%20Cortar.xlsx)).
+   Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos-para-Cortar.xlsx)).
   
 5. **🖱️ Executável OneFile (.exe)**
 
@@ -80,7 +80,7 @@ Após rodar o programa, os seguintes arquivos serão gerados:
     O nome do arquivo será gerado com a data atual, por exemplo:
     
     **Relatório_Corte_Tubos_15-04-2025.pdf**
-    (👉 [Clique aqui para visualizar o relatório em PDF](https://github.com/azedokilmi/distribuicao-ordens-robos/raw/main/Pecas-e-Componentes-Relatorio-Ordens-11-04-2025.pdf))
+    (👉 [Clique aqui para visualizar o relatório em PDF](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Relatorio-Corte-Tubos-15-04-2025.pdf))
   
     ![Prévia do Relatório em PDF](https://github.com/azedokilmi/distribuicao-ordens-robos/raw/main/preview-pdf.png)
 
