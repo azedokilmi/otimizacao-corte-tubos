@@ -42,7 +42,7 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
 
 3. **Execute o programa**:
 
-   no terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Corte-de-Tubos.py)) deve estar localizado e execute o comando abaixo:
+   No terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Corte-de-Tubos.py)) deve estar localizado e execute o comando abaixo:
    
    Após a execução do script, os arquivos de saída serão gerados na mesma pasta onde o programa foi executado.
    ```bash
