@@ -102,6 +102,8 @@ Integração com ERP para automatizar entrada de dados.
 
 Algoritmo otimizado de cutting stock problem com heurísticas mais eficientes.
 
+Adaptar o código para implementação em dispositivos Android (tablet e celular) por meio do Kivy.
+
 ## ✍️ Autor
 
 Feito com dedicação por Pedro Cicilini de Nadai 💪\
