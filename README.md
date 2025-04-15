@@ -53,7 +53,7 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
   
 5. 📋 **Organização dos Dados de Entrada**
 
-   Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa.
+   Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos%20para%20Cortar.xlsx)).
   
 5. **🖱️ Executável OneFile (.exe)**
 
