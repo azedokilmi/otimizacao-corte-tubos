@@ -80,7 +80,7 @@ Após rodar o programa, os seguintes arquivos serão gerados:
     O nome do arquivo será gerado com a data atual, por exemplo:
     
     **Relatório_Corte_Tubos_15-04-2025.pdf**
-    (👉 [Clique aqui para visualizar o relatório em PDF](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Relatorio-Corte-Tubos-15-04-2025.pdf))
+    (👉 [Clique aqui para visualizar o relatório em PDF](https://github.com/azedokilmi/otimizacao-corte-tubos/raw/main/Relatorio-Corte-Tubos-15-04-2025.pdf))
   
     ![Prévia do Relatório em PDF](https://github.com/azedokilmi/distribuicao-ordens-robos/raw/main/preview-pdf.png)
 
