@@ -40,25 +40,27 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
    pip install fpdf
    ```
 
-3. **Execute o programa**: no terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Corte-de-Tubos.py)) deve estar localizado e execute o comando abaixo:
+3. **Execute o programa**:
+
+   no terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Corte-de-Tubos.py)) deve estar localizado e execute o comando abaixo:
    
    Após a execução do script, os arquivos de saída serão gerados na mesma pasta onde o programa foi executado.
    ```bash
    python Corte-de-Tubos.py
    ```
    
-5. **Siga as instruções no terminal**:
+9. **Siga as instruções no terminal**:
    - Informe os comprimentos dos tubos disponíveis.
    - Adicione os cortes desejados e selecione a matéria-prima correspondente.
   
-    ![Prévia do Programa em Execução](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-py.png)
+       ![Prévia do Programa em Execução](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-py.png)
   
-6. 📋 **Organização dos Dados de Entrada**
+10. 📋 **Organização dos Dados de Entrada**:
 
-   Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos-para-Cortar.xlsx)).
-
+    Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos-para-Cortar.xlsx)).
+    
     ![Prévia dos Dados de Entrada](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-xlsx.png)
-  
+   
 5. **🖱️ Executável OneFile (.exe)**
 
    Para facilitar o uso diário e tornar o processo mais prático, foi gerado um executável "onefile" (.exe) que pode ser rodado diretamente com dois cliques, sem a necessidade de abrir o prompt de comando ou programas de codagem como JupyterLab ou VS Code.
