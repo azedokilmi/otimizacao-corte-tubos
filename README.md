@@ -104,5 +104,5 @@ Algoritmo otimizado de cutting stock problem com heurísticas mais eficientes.
 
 ## ✍️ Autor
 
-Feito com dedicação por Pedro Cicilini de Nadai 💻
-GitHub: @azedokilmi
+Feito com dedicação por Pedro Cicilini de Nadai 💪\
+GitHub: [@azedokilmi](https://github.com/azedokilmi)
