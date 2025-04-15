@@ -53,7 +53,7 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
    - Informe os comprimentos dos tubos disponíveis.
    - Adicione os cortes desejados e selecione a matéria-prima correspondente.
   
-       ![Prévia do Programa em Execução](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-py.png)
+   ![Prévia do Programa em Execução](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-py.png)
   
 10. 📋 **Organização dos Dados de Entrada**:
 
