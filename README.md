@@ -7,7 +7,7 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
 ## ⚙️ Como Funciona?
 
 1. 📥 **Entrada de Dados**
-   - O usuário informa os **comprimentos disponíveis dos tubos** e os **cortes desejados**.
+   - O usuário informa os **comprimentos disponíveis dos tubos**, os **cortes desejados** e a **quantidade**.
    - Para cada corte, é possível associar um tipo de **matéria-prima**, identificada por um código e seu respectivo **peso por milímetro**.
    - Exemplo de código de matéria-prima: `0306011217` com peso de `0.006210 kg/mm`.
 
@@ -19,8 +19,8 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
 3. 📊 **Relatório em PDF**
    - Detalhamento completo da alocação:
      - Comprimento do tubo
-     - Matéria-prima utilizada
      - Cortes realizados
+     - Matéria-prima utilizada
      - Sobra de material
    - Estatísticas incluídas:
      - Total de cortes realizados
@@ -51,13 +51,13 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
    
 9. **Siga as instruções no terminal**:
    - Informe os comprimentos dos tubos disponíveis.
-   - Adicione os cortes desejados e selecione a matéria-prima correspondente.
+   - Adicione os cortes desejados, a quantidade e selecione a matéria-prima correspondente.
   
    ![Prévia do Programa em Execução](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-py.png)
   
 10. 📋 **Organização dos Dados de Entrada**:
 
-    Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos-para-Cortar.xlsx)).
+    Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados, quantidade e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos-para-Cortar.xlsx)).
     
     ![Prévia dos Dados de Entrada](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-xlsx.png)
    
