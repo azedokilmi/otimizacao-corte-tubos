@@ -51,13 +51,13 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
    - Informe os comprimentos dos tubos disponíveis.
    - Adicione os cortes desejados e selecione a matéria-prima correspondente.
   
-    ![Prévia do Relatório em PDF](https://github.com/azedokilmi/distribuicao-ordens-robos/raw/main/preview-pdf.png)
+    ![Prévia do Programa em Execução](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-py.png)
   
 6. 📋 **Organização dos Dados de Entrada**
 
    Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos-para-Cortar.xlsx)).
 
-    ![Prévia do Relatório em PDF](https://github.com/azedokilmi/distribuicao-ordens-robos/raw/main/preview-pdf.png)
+    ![Prévia dos Dados de Entrada](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-xlsx.png)
   
 5. **🖱️ Executável OneFile (.exe)**
 
@@ -86,7 +86,7 @@ Após rodar o programa, os seguintes arquivos serão gerados:
     **Relatório_Corte_Tubos_15-04-2025.pdf**
     (👉 [Clique aqui para visualizar o relatório em PDF](https://github.com/azedokilmi/otimizacao-corte-tubos/raw/main/Relatorio-Corte-Tubos-15-04-2025.pdf))
   
-    ![Prévia do Relatório em PDF](https://github.com/azedokilmi/distribuicao-ordens-robos/raw/main/preview-pdf.png)
+    ![Prévia do Relatório em PDF](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-pdf.png)
 
 ## 💡 Ideias Futuras
 
