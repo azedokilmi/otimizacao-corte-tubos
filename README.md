@@ -7,55 +7,74 @@ Este projeto em Python realiza a alocação ideal de cortes de tubos de comprime
 ## ⚙️ Como Funciona?
 
 1. 📥 **Entrada de Dados**
+   
    - O usuário informa os **comprimentos disponíveis dos tubos**, os **cortes desejados** e a **quantidade**.
+     
    - Para cada corte, é possível associar um tipo de **matéria-prima**, identificada por um código e seu respectivo **peso por milímetro**.
+     
    - Exemplo de código de matéria-prima: `0306011217` com peso de `0.006210 kg/mm`.
 
-2. 🧠 **Algoritmo de Alocação**
+3. 🧠 **Algoritmo de Alocação**
+   
    - Os cortes são agrupados por comprimento e tipo de matéria-prima.
+     
    - O algoritmo aloca os cortes nos tubos disponíveis, sempre utilizando tubos da mesma matéria-prima.
+     
    - A alocação considera o melhor aproveitamento possível para minimizar o material desperdiçado.
 
-3. 📊 **Relatório em PDF**
+5. 📊 **Relatório em PDF**
+   
    - Detalhamento completo da alocação:
+     
      - Comprimento do tubo
+       
      - Cortes realizados
+       
      - Matéria-prima utilizada
+       
      - Sobra de material
+       
    - Estatísticas incluídas:
+     
      - Total de cortes realizados
+       
      - Quantidade de tubos utilizados por comprimento
+       
      - Desperdício total em milímetros e em quilos por matéria-prima
 
 ---
 
 ## 🚀 Passo a Passo para Execução
 
-1. **Tenha o Python instalado**  
+1. **Tenha o Python instalado**
+   
    Recomendado: Python 3.8+
 
-2. **Instale a dependência necessária:**
+3. **Instale a dependência necessária:**
 
    ```bash
    pip install fpdf
    ```
 
-3. **Execute o programa**:
+4. **Execute o programa**:
 
    No terminal (ou prompt de comando), navegue até a área de trabalho onde o arquivo `.py` (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Corte-de-Tubos.py)) deve estar localizado e execute o comando abaixo:
    
    Após a execução do script, os arquivos de saída serão gerados na mesma pasta onde o programa foi executado.
+
    ```bash
    python Corte-de-Tubos.py
    ```
    
 9. **Siga as instruções no terminal**:
+    
    - Informe os comprimentos dos tubos disponíveis.
+     
    - Adicione os cortes desejados, a quantidade e selecione a matéria-prima correspondente.
   
    ![Prévia do Programa em Execução](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/preview-py.png)
   
-10. 📋 **Organização dos Dados de Entrada**:
+11. 📋 **Organização dos Dados de Entrada**:
 
     Atualmente, os dados de entrada (comprimentos dos tubos, cortes desejados, quantidade e matéria-prima) devem ser informados manualmente pelo usuário diretamente no terminal, com base em uma planilha organizada no Excel. É recomendável que você organize previamente os dados em uma planilha, listando os cortes e as respectivas matérias-primas, para facilitar a digitação durante a execução do programa (👉 [Clique aqui para visualizar o arquivo](https://github.com/azedokilmi/otimizacao-corte-tubos/blob/main/Tubos-para-Cortar.xlsx)).
     
